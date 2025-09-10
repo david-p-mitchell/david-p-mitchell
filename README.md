@@ -4,13 +4,21 @@ I'm a software developer from the UK, specialising in **C#**, **SQL**, **Vue.js*
 
 My [portfolio website](https://david-p-mitchell.uk) showcases some of my work and provides more information about me.
 
+### Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-p-mitchell&layout=compact)
+
 #### 🔭 I'm currently working on:
 Enon Baptist Church's website using **Nuxt.js**. [Source code](https://github.com/EnonBaptistChurch/ebcc-web-static)
+
+
+
 
 #### 📫 How to reach me:
 - [Portfolio Website](https://david-p-mitchell.uk)
 - [LinkedIn](https://www.linkedin.com/in/davidpmitchelluk/)
-- [Email](mailto:davidpmitchell92@googlemail.com) 
+- [Email](mailto:david@david-p-mitchell.uk)
+
+
 
 
 <!--
@@ -24,6 +32,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
