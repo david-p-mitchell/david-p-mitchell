@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi, I'm David! 👋
 
 I'm a software developer from the UK, specialising in **C#**, **SQL**, **Vue.js**, **Nuxt.js**, and **.NET Core**. I enjoy building real-world projects and learning new technologies.
 
