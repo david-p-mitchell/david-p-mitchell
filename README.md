@@ -7,6 +7,10 @@ My [portfolio website](https://david-p-mitchell.uk) showcases some of my work an
 #### I'm currently working on:
 Enon Baptist Church's website using **Nuxt.js**. [Source code](https://github.com/EnonBaptistChurch/ebcc-web-static)
 
+#### 📫 How to reach me:
+- [Portfolio Website](https://david-p-mitchell.uk)
+- [LinkedIn](https://www.linkedin.com/in/davidpmitchelluk/)
+- [Email](mailto:davidpmitchell92@googlemail.com) 
 
 
 <!--
