@@ -4,7 +4,7 @@ I'm a software developer from the UK, specialising in **C#**, **SQL**, **Vue.js*
 
 My [portfolio website](https://david-p-mitchell.uk) showcases some of my work and provides more information about me.
 
-##### I'm currently working on:
+#### I'm currently working on:
 Enon Baptist Church's website using **Nuxt.js**. [Source code](https://github.com/EnonBaptistChurch/ebcc-web-static)
 
 
