@@ -1,6 +1,7 @@
 # Hi, I'm David! 👋
 
-Currently looking for new opportunities!
+**Currently looking for new opportunities!**
+
 I'm a software developer from the UK, specialising in **C#**, **SQL**, **Vue.js**, **Nuxt.js**, and **.NET Core**. I enjoy building real-world projects and learning new technologies.
 
 #### 📫 How to reach me:
