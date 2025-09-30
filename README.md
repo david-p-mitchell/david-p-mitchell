@@ -4,6 +4,9 @@ Currently looking for new opportunities!
 
 I'm a software developer from the UK, specialising in **C#**, **SQL**, **Vue.js**, **Nuxt.js**, and **.NET Core**. I enjoy building real-world projects and learning new technologies.
 
+#### 📫 How to reach me:
+[Portfolio Website](https://david-p-mitchell.uk) | [LinkedIn](https://www.linkedin.com/in/davidpmitchelluk/) | [Email](mailto:david@david-p-mitchell.uk)
+
 My [portfolio website](https://david-p-mitchell.uk) showcases some of my work and provides more information about me.
 
 ### Languages:
@@ -12,13 +15,6 @@ My [portfolio website](https://david-p-mitchell.uk) showcases some of my work an
 
 #### 🔭 I'm currently working on:
 Enon Baptist Church's website using **Nuxt.js**. [Source code](https://github.com/EnonBaptistChurch/ebcc-web-static)
-
-
-#### 📫 How to reach me:
-- [Portfolio Website](https://david-p-mitchell.uk)
-- [LinkedIn](https://www.linkedin.com/in/davidpmitchelluk/)
-- [Email](mailto:david@david-p-mitchell.uk)
-
 
 
 
