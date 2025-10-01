@@ -13,7 +13,7 @@ My [Portfolio website](https://david-p-mitchell.uk) showcases some of my work an
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-p-mitchell)
 
 
-**🔭 I'm currently working on:**: Enon Baptist Church's website using **Nuxt.js**. [Source code](https://github.com/EnonBaptistChurch/ebcc-web-static)
+**🔭 I'm currently working on:** Enon Baptist Church's website using **Nuxt.js**. [Source code](https://github.com/EnonBaptistChurch/ebcc-web-static)
 
 
 
