@@ -10,7 +10,7 @@ My [Portfolio website](https://david-p-mitchell.uk) showcases some of my work an
 
 ### Languages:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=david-p-mitchell&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-p-mitchell&layout=donut&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-p-mitchell&layout=donut&theme=default&size_weight=0.7&count_weight=0.3&card_width=200&hide=html,css) )
 
 
 **🔭 I'm currently working on:** Enon Baptist Church's website using **Nuxt.js**. [Source code](https://github.com/EnonBaptistChurch/ebcc-web-static)
