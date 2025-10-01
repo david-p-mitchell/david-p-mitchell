@@ -9,7 +9,7 @@ I'm a software developer from the UK, specialising in **C#**, **SQL**, **Vue.js*
 My [Portfolio website](https://david-p-mitchell.uk) showcases some of my work and provides more information about me.
 
 ### Languages:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=david-p-mitchell&show_icons=true&theme=default)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=david-p-mitchell&show_icons=true&theme=default&rank_icon=github&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-p-mitchell&layout=compact&theme=default&size_weight=0.7&count_weight=0.3&card_width=200&hide=html,css)
 
 
