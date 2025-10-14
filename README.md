@@ -1,7 +1,5 @@
 # Hi, I'm David! 👋
 
-**Currently looking for new opportunities!**
-
 I'm a software developer from the UK, specialising in **C#**, **SQL**, **Vue.js**, **Nuxt.js**, and **.NET Core**. I enjoy building real-world projects and learning new technologies.
 
 **📫 How to reach me:** [Portfolio Website](https://david-p-mitchell.uk) | [LinkedIn](https://www.linkedin.com/in/davidpmitchelluk/) | [Email](mailto:david@david-p-mitchell.uk)
