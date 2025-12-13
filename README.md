@@ -12,6 +12,7 @@ My [Portfolio website](https://david-p-mitchell.uk) showcases some of my work an
 
 
 **🔭 I'm also currently working on:** 
+
 Enon Baptist Church's website using **Nuxt.js**. [Source code](https://github.com/EnonBaptistChurch/ebcc-web-static)
 
 Also some Church based tools, which should appear in the near future!
