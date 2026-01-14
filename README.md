@@ -17,10 +17,7 @@ My [Portfolio website](https://david-p-mitchell.uk) showcases some of my work an
 
 Enon Baptist Church's website using **Nuxt.js**. [Source code](https://github.com/EnonBaptistChurch/ebcc-web-static)
 
-Also some Church based tools, which should appear in the near future!
-
-
-
+Also some Church based tools [here](https://enonbaptistchurch.github.io) !
 
 <!--
 **david-p-mitchell/david-p-mitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
