@@ -4,7 +4,7 @@ I'm a software developer from the UK, specialising in **C#**, **SQL**, **Vue.js*
 
 **📫 How to reach me:** [Portfolio Website](https://portfolio.david-p-mitchell.uk) | [LinkedIn](https://www.linkedin.com/in/davidpmitchelluk/) | [Email](mailto:david@david-p-mitchell.uk)
 
-My [Portfolio website](https://david-p-mitchell.uk) showcases some of my work and provides more information about me.
+My [Portfolio website](https://portfolio.david-p-mitchell.uk) showcases some of my work and provides more information about me.
 
 ### Languages:
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=david-p-mitchell&show_icons=true)
