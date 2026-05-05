@@ -2,7 +2,7 @@
 
 I'm a software developer from the UK, specialising in **C#**, **SQL**, **Vue.js**, **Nuxt.js**, and **.NET Core**. I work as a software developer at [Goals Football](https://goalsfootball.co.uk) and enjoy building tools for people to use and in streamlining processes.
 
-**📫 How to reach me:** [Portfolio Website](https://david-p-mitchell.uk) | [LinkedIn](https://www.linkedin.com/in/davidpmitchelluk/) | [Email](mailto:david@david-p-mitchell.uk)
+**📫 How to reach me:** [Portfolio Website](https://portfolio.david-p-mitchell.uk) | [LinkedIn](https://www.linkedin.com/in/davidpmitchelluk/) | [Email](mailto:david@david-p-mitchell.uk)
 
 My [Portfolio website](https://david-p-mitchell.uk) showcases some of my work and provides more information about me.
 
