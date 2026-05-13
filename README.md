@@ -11,7 +11,8 @@ My [Portfolio website](https://portfolio.david-p-mitchell.uk) showcases some of 
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=david-p-mitchell&layout=compact&langs_count=8)
 
-![Enon](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EnonBaptistChurch)
+![Enon](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=david-p-mitchell&include_all_commits=true)
+
 
 
 
