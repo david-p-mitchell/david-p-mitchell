@@ -9,7 +9,7 @@ My [Portfolio website](https://portfolio.david-p-mitchell.uk) showcases some of 
 ### Languages:
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=david-p-mitchell&show_icons=true)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=david-p-mitchell&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=david-p-mitchell&layout=compact&langs_count=8)
 
 
 
